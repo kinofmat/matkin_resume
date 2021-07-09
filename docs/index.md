@@ -1,84 +1,91 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Kai Matkin's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Kai Matkin
+Passionate life-long learner at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="kaimatkin@hotmail.com">kaimatkin@hotmail.com</a>
+| <a href="www.linkedin.com/in/kai-matkin">LinkedIn</a>
+| <a href="https://github.com/kinofmat?tab=repositories">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2016-2018`
+__Central Piedmont Community College__, Charlotte, NC
 
-- Full academic scholarship with 4.0 GPA
+- Course Work: Linear Algebra, Object Orientated Programming
 
-`Expected 2029`
+`2020-Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
-
+- Society of Artificial Intelligence
+- CIT Tutor
+- Course Work: Discrete Math, Programming with Data Structures
 
 ## Related Experience
 
-### Internships
+### Internship
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`June 2016-August 2016`
+__STV Inc__, Charlotte, NC
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Designed plans and 3-D models for company projects, using AutoCAD and SketchUp.
+- Sorted and filed archives of past 10 years' worth of projects.
 
-### Data Science Lead
+### Intermediate Occupations
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`April 2017-September 2020`
+__Professional Pool Services of Charlotte__, Pool Technician
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Maintained detailed cleanliness and functionality of 12-15 different pools per day.
+- Ensured each customer was satisfied with quality of pools, and directly interacted with about 5 customers per week.
+- Troubleshooted pool equipment, on novel problems, and allocated unscheduled maintenance work for approx 4 customers per week.
+- Trained 4 new employees on company policy, how to perform job, and gave feedback to enhance performance.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`September 2016-January 2017`
+__A. C. Moore__, Seasonal Associate
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Promoted store brand by warmly greeting about 20 customers each day upon entering store.
+- Created a pleasant environment, on a daily basis, by ensuring store was presented in a neat and orderly appearance.
+- Guided 2-7 customers to desired products and proposed ideas or suggestions for projects.
+- Presented a quick and friendly check-out during half of each shift, while offering promotional events store was taking part in.
 
-### Data Science Consulting Team
+## Service History
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`2019-2020`
+__Service Missionary__, St George, UT
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Devised daily plans, weekly and 6-week goals to increase productivity and accomplish organization's purpose.
+- Implemented daily interactive presentations, tailored to audience, and organized other daily meetings.
+- Met daily with new people and quickly built trusting relationships.
+- Conducted ourselves as a team of two and led a team in daily tasks, and decision making for 5 months.
+- Mentored a new volunteer for 3 months on all aspects of work, so he could in turn train as well.
+- Oversaw 4 teams grouped together for 1 month, and led daily, and weekly meetings for group.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`2018-2019`
+__Sunday School First Counselor__, Charlotte, NC
+- Organized teachers or substitutes for each class offered on a weekly basis.
+- Conducted trainings at least quarterly, and provided support for teachers.
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`2013-2016`
+__Jr. Assistant Scout Master__, *Boy Scouts of America*, Charlotte, NC
+- Highest leadership role a youth could hold.
+- Instructed by National Youth Leadership Training: Learned how to lead a team and promote teamwork/unity within.
 
+## Awards and Honors
 
-## Service and Work History
+`2016`
+__Eagle Scout__, *Boy Scouts of America*, Charlotte, NC
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2013`
+__Order of the Arrow__, *Boy Scouts of America*, Charlotte, NC
+- Honor Society for those showing exemplary living of the Scout Oath and Law.
 
 
 
