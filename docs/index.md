@@ -15,11 +15,6 @@ Passionate life-long learner at Brigham Young University - Idaho
 
 ## Education
 
-`2016-2018`
-__Central Piedmont Community College__, Charlotte, NC
-
-- Course Work: Linear Algebra, Object Orientated Programming
-
 `2020-Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
@@ -27,6 +22,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Society of Artificial Intelligence
 - CIT Tutor
 - Course Work: Discrete Math, Programming with Data Structures
+
+`2016-2018`
+__Central Piedmont Community College__, Charlotte, NC
+
+- Course Work: Linear Algebra, Object Orientated Programming
 
 ## Related Experience
 
